@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/CSharpProjects/ChessEngine/Content/circle.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/bB.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/bK.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/bN.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/bP.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/bQ.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/bR.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/wB.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/wK.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/wN.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/wP.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/wQ.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/piece/wR.png</File>
+    <File>D:/CSharpProjects/ChessEngine/Content/square.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
